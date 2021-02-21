@@ -1,0 +1,16 @@
+{
+  "name": "beyoncebot",
+  "version": "1.0.0",
+  "description": "Testing Discord bot project #1. This is only a test prototype.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JAT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "sleep": "^6.3.0"
+  }
+}
